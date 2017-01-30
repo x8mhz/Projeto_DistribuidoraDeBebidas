@@ -15,7 +15,7 @@ Pode ser feito sozinho, em dupla ou mesmo grupo. A linguagem de programação us
 
 --- EXEMPLO --- (Meramente ilustrativos!)
 
-Programa de estoque          Website de vendas
-http://migre.me/vXMtj        http://migre.me/vXMvb
+Programa de estoque: http://migre.me/vXMtj
+Website de venda:    http://migre.me/vXMvb
 
 */
